@@ -1,0 +1,10 @@
+matplotlib
+numpy
+Pillow
+torch
+torchvision
+tensorboard
+nibabel
+os
+glob
+
